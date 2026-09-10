@@ -74,7 +74,8 @@ It is the normal way this is done. It is also where all your bugs will come from
 | [`docs/02-bringup-plan.md`](docs/02-bringup-plan.md) | The phased plan, and the concrete Android 17 work items derived from a finished port |
 | [`docs/03-device-and-recovery.md`](docs/03-device-and-recovery.md) | Unlocking, flashing, A/B slots, and how to always get back to a working phone |
 | [`docs/04-maintainership.md`](docs/04-maintainership.md) | The official rules — including the one that blocks you today |
-| [`docs/05-build-11.x-unofficial.md`](docs/05-build-11.x-unofficial.md) | **Start here.** Building the current Android 16 release (11.11) for yourself |
+| [`docs/05-build-11.x-unofficial.md`](docs/05-build-11.x-unofficial.md) | Building the current Android 16 release (11.11) for yourself |
+| [`docs/06-evox-vs-lineageos.md`](docs/06-evox-vs-lineageos.md) | **Read first.** EvoX vs LineageOS+NikGapps, and whether to self-build at all |
 
 ---
 

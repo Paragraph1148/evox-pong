@@ -1,6 +1,8 @@
 # 5. Building the current Android 16 build (11.11) unofficially, for yourself
 
-Verified 2026-09-10. **This is the project to actually do first** — it supersedes Phase 1 in
+Verified 2026-09-10. **For daily-driver use, read [`06-evox-vs-lineageos.md`](06-evox-vs-lineageos.md) first — the
+recommendation there is to flash official 11.9 and not self-build.** This guide is for when the
+goal is learning the build or the Android 17 port. In that case it **is the project to do first** — it supersedes Phase 1 in
 [`02-bringup-plan.md`](02-bringup-plan.md), which said "build 11.9". Build 11.11 instead.
 
 ## Yes, you can. And it is allowed.
